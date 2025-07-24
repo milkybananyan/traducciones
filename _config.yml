@@ -1,1 +1,7 @@
+title: "Mi Novela Traducida"
+description: "Traducciones hechas con amor por Victoria"
+baseurl: "" # Dejar vacío para GitHub Page
+url: "https://milkybananyan.github.io/traducciones/"
+theme: minima
+markdown: kramdown
 
