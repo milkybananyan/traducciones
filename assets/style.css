@@ -1,0 +1,23 @@
+body {
+  font-family: 'Georgia', serif;
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+  background: #fdfdfd;
+  color: #333;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.nav-chapters {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
